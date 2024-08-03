@@ -1,1 +1,1 @@
-# Langchain-huggingface-model-text-generation-
+# Langchain-huggingface-model(text-generation)
